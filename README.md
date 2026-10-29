@@ -210,7 +210,7 @@ The implemented application has been manually verified for the following workflo
 
 ## 👨‍💻 Author
 
-**Data Science Student**
+**Atharv Deshmukh**
 
 Project: InsightX360
 
