@@ -1,27 +1,26 @@
-# Python cache files
+# Python
 __pycache__/
 *.py[cod]
+*.pyo
 
 # Virtual environment
 .venv/
 venv/
-env/
 
 # Environment variables and secrets
 .env
 .env.*
-!.env.example
 
-# Test and coverage output
-.pytest_cache/
-.coverage
-htmlcov/
+# Streamlit
+.streamlit/secrets.toml
 
-# Build artifacts
-build/
-dist/
-*.egg-info/
+# IDE
+.vscode/
 
-# Editor and operating system files
+# OS files
 .DS_Store
 Thumbs.db
+
+# Test and cache files
+.pytest_cache/
+.coverage

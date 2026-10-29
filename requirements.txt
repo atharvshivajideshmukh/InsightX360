@@ -1,0 +1,15 @@
+
+# Data analysis
+pandas
+numpy
+
+# Visualization and dashboard
+plotly
+streamlit
+
+# Machine learning
+scikit-learn
+
+# API testing
+requests
+pytest
