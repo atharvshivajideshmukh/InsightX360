@@ -221,13 +221,13 @@ This project is developed for educational and portfolio purposes.
 ## 📸 Project Screenshots
 
 ### Home Dashboard
-![InsightX360 Dashboard](screenshots/dashboard.jpeg)
+![InsightX360 Dashboard](screenshots/dashboard.jpg)
 
 ### Business Analytics & Data Quality
-![Business Analytics](screenshots/business-analytics.jpeg)
+![Business Analytics](screenshots/business-analytics.jpg)
 
 ### Customer Churn & Retention
-![Customer Churn](screenshots/churn-retention.jpeg)
+![Customer Churn](screenshots/churn-retention.jpg)
 
 ### API Testing & Defect Intelligence
-![API Testing](screenshots/api-testing.jpeg)
+![API Testing](screenshots/api-testing.jpg)
