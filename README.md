@@ -227,7 +227,7 @@ This project is developed for educational and portfolio purposes.
 ![Business Analytics](screenshots/business_analytics.jpeg)
 
 ### Customer Churn & Retention
-![Customer Churn](screenshots/churn_retention.jpeg)
+![Customer Churn](screenshots/churn_prediction.jpeg)
 
 ### API Testing & Defect Intelligence
 ![API Testing](screenshots/api_testing.jpeg)
